@@ -1,0 +1,9 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'AIChatPharo',
+      #directory : 'src',
+      #platforms : [ #pharo ]
+    }
+  ]
+}
