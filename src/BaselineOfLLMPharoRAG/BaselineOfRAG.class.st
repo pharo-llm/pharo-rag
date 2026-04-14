@@ -6,7 +6,7 @@ Class {
 }
 
 { #category : 'baselines' }
-BaselineOfRAG >> baseline: spec [
+BaselineOfLLMPharoRAG >> baseline: spec [
 
 	<baseline>
 	spec for: #common do: [
