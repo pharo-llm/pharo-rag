@@ -1,5 +1,5 @@
 Class {
-	#name : 'BaselineOfRAG',
+	#name : 'BaselineOfLLMPharoRAG',
 	#superclass : 'BaselineOf',
 	#category : 'BaselineOfLLMPharoRAG',
 	#package : 'BaselineOfLLMPharoRAG'
