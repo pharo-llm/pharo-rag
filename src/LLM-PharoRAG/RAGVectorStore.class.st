@@ -5,8 +5,8 @@ Class {
 		'chunks',
 		'similarity'
 	],
-	#category : 'RAG-Store',
-	#package : 'RAG',
+	#category : 'LLM-PharoRAG-Store',
+	#package : 'LLM-PharoRAG',
 	#tag : 'Store'
 }
 

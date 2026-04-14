@@ -9,8 +9,8 @@ Class {
 		'documentId',
 		'index'
 	],
-	#category : 'RAG-Model',
-	#package : 'RAG',
+	#category : 'LLM-PharoRAG-Model',
+	#package : 'LLM-PharoRAG',
 	#tag : 'Model'
 }
 

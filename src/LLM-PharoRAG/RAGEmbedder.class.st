@@ -1,8 +1,8 @@
 Class {
 	#name : 'RAGEmbedder',
 	#superclass : 'Object',
-	#category : 'RAG-Embedding',
-	#package : 'RAG',
+	#category : 'LLM-PharoRAG-Embedding',
+	#package : 'LLM-PharoRAG',
 	#tag : 'Embedding'
 }
 

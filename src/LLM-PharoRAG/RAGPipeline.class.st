@@ -8,8 +8,8 @@ Class {
 		'retriever',
 		'promptTemplate'
 	],
-	#category : 'RAG-Pipeline',
-	#package : 'RAG',
+	#category : 'LLM-PharoRAG-Pipeline',
+	#package : 'LLM-PharoRAG',
 	#tag : 'Pipeline'
 }
 

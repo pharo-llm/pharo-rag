@@ -6,8 +6,8 @@ Class {
 		'embedder',
 		'topK'
 	],
-	#category : 'RAG-Retrieval',
-	#package : 'RAG',
+	#category : 'LLM-PharoRAG-Retrieval',
+	#package : 'LLM-PharoRAG',
 	#tag : 'Retrieval'
 }
 

@@ -6,8 +6,8 @@ Class {
 		'metadata',
 		'id'
 	],
-	#category : 'RAG-Model',
-	#package : 'RAG',
+	#category : 'LLM-PharoRAG-Model',
+	#package : 'LLM-PharoRAG',
 	#tag : 'Model'
 }
 

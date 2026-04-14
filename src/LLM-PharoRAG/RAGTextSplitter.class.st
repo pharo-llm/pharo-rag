@@ -6,8 +6,8 @@ Class {
 		'chunkOverlap',
 		'separator'
 	],
-	#category : 'RAG-Chunking',
-	#package : 'RAG',
+	#category : 'LLM-PharoRAG-Chunking',
+	#package : 'LLM-PharoRAG',
 	#tag : 'Chunking'
 }
 

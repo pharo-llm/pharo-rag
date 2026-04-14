@@ -1,8 +1,8 @@
 Class {
 	#name : 'RAGVectorStoreTest',
 	#superclass : 'TestCase',
-	#category : 'RAG-Tests',
-	#package : 'RAG-Tests'
+	#category : 'LLM-PharoRAG-Tests',
+	#package : 'LLM-PharoRAG-Tests'
 }
 
 { #category : 'tests' }

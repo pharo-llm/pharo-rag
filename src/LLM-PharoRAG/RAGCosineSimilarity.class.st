@@ -1,8 +1,8 @@
 Class {
 	#name : 'RAGCosineSimilarity',
 	#superclass : 'Object',
-	#category : 'RAG-Similarity',
-	#package : 'RAG',
+	#category : 'LLM-PharoRAG-Similarity',
+	#package : 'LLM-PharoRAG',
 	#tag : 'Similarity'
 }
 
